@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Vehicle</string>
+    <string name="title_add">Add</string>
+    <string name="title_update">Update</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_search">Search</string>
+    <string name="btn_create">Crear</string>
+    <string name="placa">Placa:</string>
+    <string name="text_placa">TGE456</string>
+    <string name="modelo">Modelo:</string>
+    <string name="text_modelo">2020</string>
+    <string name="type">Tipo:</string>
+    <string name="text_type">Auto</string>
+    <string name="Pasagero"># Pasageros:</string>
+    <string name="text_Pasagero">5</string>
+    <string name="search_vehicle">Ingresa la placa del vehiculo</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="add_image">Ingresa la url de tu imagen en Internet</string>
+    <string name="ingresa_url">Ingresa url</string>
+
+    <string-array name="passanger_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="color_array">
+        <item>#f6e58d</item>
+        <item>#ffbe76</item>
+        <item>#ff0000</item>
+        <item>#badc58</item>
+        <item>#FFFFFF</item>
+        <item>#7ed6df</item>
+        <item>#0000ff</item>
+        <item>#686de0</item>
+        <item>#30336b</item>
+        <item>#95afc0</item>
+        <item>#000000</item>
+    </string-array>
+
+    <array name="themeColors">
+        <item>"@color/green"</item>
+        <item>@color/blue_500</item>
+        <item>@color/red_500</item>
+        <item>@color/grey_500</item>
+        <item>@color/orange_500</item>
+        <item>@color/black</item>
+        <item>@color/white</item>
+        <item>"#686de0"</item>
+    </array>
+
+</resources>
